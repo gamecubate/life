@@ -1,0 +1,11 @@
+.*.sw*
+*~
+*.html
+lib/impact
+lib/weltmeister
+tools
+support/
+design/
+lib/plugins/
+LICENSE.TXT
+README.txt
